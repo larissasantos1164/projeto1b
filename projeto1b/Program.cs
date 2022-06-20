@@ -12,7 +12,7 @@ namespace projeto1b
         {
             int numero;
             pessoa aluno;
-            aluno = new pessoa();
+            aluno = new pessoa();//
             pessoa professor = new pessoa();
             aluno.nome = "Huguinho";
             professor.nome = "Prof. Pardal";
